@@ -6,6 +6,8 @@ local NOTSUPPORTEDEXECUTORS = {
     [''] = "Trigon"
     [''] = "Temple"
     [''] = "Electron"
+    [''] = "Kiwi X"
+    [''] = "Kiwi V2"
 }
 
 local SUPPORTEDEXECUTORS = {
