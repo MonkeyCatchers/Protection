@@ -10,7 +10,7 @@ local SUPPORTEDEXECUTORS = {
     ['Synapse X'] = "Synapse X"
     ['Fluxus'] = "Fluxus"
     ['ScriptWare'] = "Script Ware"
-    ['Trigon'] = "Trigon" -- May Be Incorrect
+    ['Trigon'] = "Trigon"
     ['ScriptWare'] = "Script Ware"
     [''] = "Temple"
 }
