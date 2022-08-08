@@ -9,7 +9,6 @@ local NOTSUPPORTEDEXECUTORS = {
 local SUPPORTEDEXECUTORS = {
     ['Synapse X'] = "Synapse X"
     ['Fluxus'] = "Fluxus"
-    ['ScriptWare'] = "Script Ware"
     ['Trigon'] = "Trigon"
     ['ScriptWare'] = "Script Ware"
     [''] = "Temple"
