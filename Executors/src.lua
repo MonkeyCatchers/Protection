@@ -11,7 +11,6 @@ local SUPPORTEDEXECUTORS = {
     ['Fluxus'] = "Fluxus"
     ['Trigon'] = "Trigon"
     ['ScriptWare'] = "Script Ware"
-    [''] = "Temple"
 }
 
 local WEIRDSUPPORTEDEXECUTORS = {
